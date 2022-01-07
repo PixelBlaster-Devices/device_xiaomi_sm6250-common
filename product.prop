@@ -17,3 +17,6 @@ persist.device_config.runtime_native_boot.iorap_readahead_enable=true
 # USAP
 persist.device_config.runtime_native.usap_pool_enabled=true
 
+# Set support hide display cutout feature
+ro.support_hide_display_cutout=true
+
